@@ -1,12 +1,6 @@
-# 2_key_macropad
+# handwired/2_key_macropad
 
-![2_key_macropad](imgur.com image replace me!)
-
-*A short description of the keyboard/project*
-
-* Keyboard Maintainer: [dyn1xx](https://github.com/dyn1xx)
-* Hardware Supported: *The PCBs, controllers supported*
-* Hardware Availability: *Links to where you can find this hardware*
+![Image](https://media.printables.com/media/prints/1b548c00-1e38-435e-ac8e-3ecc0696e820/images/10080525_1d3af5ef-5f36-4597-b425-f2d3c54f2664_c3569934-6a74-4e4e-92ad-8e2d67c67136/thumbs/inside/1920x1440/jpg/2_key_macropad1.webp)
 
 Make example for this keyboard (after setting up your build environment):
 
